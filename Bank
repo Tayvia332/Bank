@@ -1,0 +1,16 @@
+[
+	{
+		"bank_name": "N/A",
+		"card_type": "",
+		"credit_card_number": "4946380184914286",
+		"checksum": "6",
+		"country": "",
+		"bin_iin": "494638",
+		"ccn_length": 16,
+		"luhn_test": "pass",
+		"mii": "Banking And Financial",
+		"brand_network": "",
+		"pan": "018491428",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=4946380184914286"
+	}
+]
